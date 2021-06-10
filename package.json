@@ -1,0 +1,28 @@
+{
+  "name": "@live-change/vue-api",
+  "version": "0.1.0",
+  "description": "Live Change Framework - vue api base",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test tape tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/live-change/vue-api.git"
+  },
+  "author": {
+    "email": "m8@em8.pl",
+    "name": "Michał Łaszczewski",
+    "url": "https://www.viamage.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/live-change/vue-api/issues"
+  },
+  "homepage": "https://github.com/live-change/vue-api",
+  "dependencies": {
+    "@live-change/dao": "^0.2.44",
+    "debug": "^4.3.1",
+    "vue": "^3.0.11"
+  }
+}
