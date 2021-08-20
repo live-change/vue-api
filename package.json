@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/live-change/vue-api",
   "dependencies": {
-    "@live-change/dao": "^0.2.44",
-    "debug": "^4.3.1",
-    "vue": "^3.0.11"
+    "@live-change/dao": "^0.3.3",
+    "debug": "^4.3.2",
+    "vue": "^3.2.4"
   }
 }
