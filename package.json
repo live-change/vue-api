@@ -22,6 +22,7 @@
   "homepage": "https://github.com/live-change/vue-api",
   "dependencies": {
     "@live-change/dao": "^0.3.6",
-    "debug": "^4.3.2"
+    "debug": "^4.3.2",
+    "@live-change/uid": "^0.1.3"
   }
 }
